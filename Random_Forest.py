@@ -32,7 +32,7 @@ cities = [
     'Mumbai', 'Mullanpur', 'Visakhapatnam'
 ]
 
-pipe = pickle.load(open('pipe1.pkl', "rb"))
+pipe = pickle.load(open('pipe.pkl', "rb"))
 
 st.title('IPL Win Predictor')
 
