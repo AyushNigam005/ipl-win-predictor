@@ -258,4 +258,3 @@ if predict_button:
         ax.set_title("Win Probability", fontsize=18, weight='bold', pad=20)
 
         st.pyplot(fig, clear_figure=True)
-
